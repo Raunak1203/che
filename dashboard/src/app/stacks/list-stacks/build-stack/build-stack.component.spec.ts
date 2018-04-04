@@ -222,7 +222,7 @@ describe(`BuildStack dialog >`, () => {
             'default': {
               'machines': {
                 'dev-machine': {
-                  'installers': ['org.eclipse.che.ws-agent', 'org.eclipse.che.terminal'],
+                  'installers': [],
                   'attributes': {'memoryLimitBytes': 2147483648},
                   'env': undefined,
                   'servers': undefined,
@@ -264,7 +264,7 @@ describe(`BuildStack dialog >`, () => {
             'default': {
               'machines': {
                 'dev-machine': {
-                  'installers': ['org.eclipse.che.ws-agent', 'org.eclipse.che.terminal'],
+                  'installers': [],
                   'attributes': {'memoryLimitBytes': 2147483648},
                   'env': undefined,
                   'servers': undefined,
