@@ -221,7 +221,7 @@ describe(`BuildStack dialog >`, () => {
           'environments': {
             'default': {
               'machines': {
-                'dev-machine': {
+                'new-machine': {
                   'installers': [],
                   'attributes': {'memoryLimitBytes': 2147483648},
                   'env': undefined,
@@ -263,7 +263,7 @@ describe(`BuildStack dialog >`, () => {
           'environments': {
             'default': {
               'machines': {
-                'dev-machine': {
+                'new-machine': {
                   'installers': [],
                   'attributes': {'memoryLimitBytes': 2147483648},
                   'env': undefined,
